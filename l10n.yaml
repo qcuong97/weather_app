@@ -1,0 +1,5 @@
+arb-dir: lib/src/device/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+header: "// This file is generated - do not edit directly.\n// To rebuild, run:\n//     flutter pub get\n// or\n//    flutter gen-l10n\n\n"
+untranslated-messages-file: untranslated_messages.json
